@@ -3,8 +3,8 @@
 title:            Site Title
 locale:           en_US
 url:
-
-
+post_assets:images
+general_assets: images
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name:James Meichtry blog
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
