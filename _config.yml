@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            James Mieichtry blog
-locale:           en_US
+locale:           en_UK
 url:
 post_assets:images
 general_assets: images
