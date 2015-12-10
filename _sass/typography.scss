@@ -33,13 +33,13 @@ h6 {
    ========================================================================== */
 
 a {
-	text-decoration: none;
-	color: $link-color;
+	text-decoration: ;
+	color: #ff0000;
 	&:visited {
 		color: $linkcolorvisited;
 	}
 	&:hover {
-		color: $linkcolorhover;
+		color: #0000ff;
 	}
 	&:focus {
 		outline: thin dotted;
